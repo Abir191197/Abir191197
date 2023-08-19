@@ -1,6 +1,6 @@
 <h3 align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=28&pause=1000&color=9718F7&background=0B064D00&width=800&height=63&lines=Hi+%F0%9F%91%8B%2C+I'm+Abir+Alam;A+passionate+web+developer+From+Bangladesh+%7C" alt="Typing SVG" /> </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=9718F7&background=0B064D00&width=800&height=63&lines=Hi+%F0%9F%91%8B%2C+I'm+Abir+Alam;A+passionate+web+developer+From+Bangladesh+%7C" alt="Typing SVG" /></a>
 </h3>
 
 <p align="center"> <img src="https://camo.githubusercontent.com/7126894c136cfcea2ead9679838b0ca5b8bf50f64c0b76dc0e69e75d9fc57314/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f68656c6c6f2e676966" alt="abir191197" /> </p>
