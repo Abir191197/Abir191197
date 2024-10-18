@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abir191197&show_icons=true&locale=en&layout=compact" alt="abir191197" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abir191197&show_icons=true&locale=en" alt="abir191197" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abir191197&theme=dark" alt="GitHub Streak" /></a>
