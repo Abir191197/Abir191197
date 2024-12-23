@@ -3,7 +3,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=0078D4&width=800&height=63&lines=Hi+%F0%9F%91%8B%2C+I'm+Abir+Alam;A+passionate+web+developer+From+Bangladesh+%7C" alt="Typing SVG" />
   </a>
 </h3>
-
+<h3 align="center">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEwB7UIPNgEqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716038886015?e=1740614400&v=beta&t=u7KQZEgTbqAAHqh35UTn9eMNEX5Jzp1MfJGE-Ss-m6g">
+</h3>
 # 💫 About Me:
 - 👯 **Looking to collaborate on**:<br>
   - **Frontend**: ReactJS, Redux, TailwindCSS for responsive and user-friendly interfaces<br>
